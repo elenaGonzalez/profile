@@ -24,7 +24,7 @@ render() {
                <span>•</span>{" "}
              </p>
              <p>
-               Me el año 2019 presenté mi tesis de Grado y obtuve el título de Licenciada en Sistemas.
+               En el año 2019 presenté mi tesis de Grado y obtuve el título de Licenciada en Sistemas.
                La Universidad Nacional del Nordeste es una institución de gran prestigio en la Región y estoy muy orgullosa de haber egresado de sus aulas.
              </p>
            </div>
