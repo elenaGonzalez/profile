@@ -107,10 +107,10 @@ render() {
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href="#modal-08" >
-                      <img alt="Base de Datos" src="images/portfolio/bd-relacionales.png" />
+                      <img alt="Busca Gifs" src="images/portfolio/buscagifs.png" />
                       <div className="overlay">
                         <div className="portfolio-item-meta">
-                          <h5>Base de Datos</h5>
+                          <h5>Buscador de Gifs</h5>
                         </div>
                       </div>
                     </a>
@@ -284,13 +284,13 @@ render() {
           <div id="modal-08" className="popup-modal mfp-hide">
             <img
               className="scale-with-grid"
-              src="images/portfolio/modals/m-bd-relacionales.png"
+              src="images/portfolio/modals/m-buscagifs.png"
               alt="Base de Datos"
             />
             <div className="description-box">
-              <h4>Base de Datos</h4>
+              <h4>Buscador de Gifs</h4>
               <p>
-                A lo largo de mis proyectos, trabajé con varias Bases de datos relacionales y también no relacionales.
+                Busca Gift desde una API externa.
               </p>
               <span className="categories">
                 <i className="fa fa-tag" />
@@ -298,7 +298,7 @@ render() {
               </span>
             </div>
             <div className="link-box">
-              <a href="https://es.wikipedia.org/wiki/Base_de_datos_relacional">Details</a>
+              <a href="https://elenagonzalez.github.io/buscadorgifs/">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
