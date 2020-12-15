@@ -94,10 +94,10 @@ render() {
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href="#modal-07">
-                      <img alt="Symfony" src="images/portfolio/symfony.png" />
+                      <img alt="TA-TE-TI" src="images/portfolio/tateti.png" />
                       <div className="overlay">
                         <div className="portfolio-item-meta">
-                          <h5>Symfony</h5>
+                          <h5>TA TE TI</h5>
                         </div>
                       </div>
                     </a>
@@ -262,21 +262,21 @@ render() {
           <div id="modal-07" className="popup-modal mfp-hide">
             <img
               className="scale-with-grid"
-              src="images/portfolio/modals/m-symfony.png"
+              src="images/portfolio/modals/m-tateti.png"
               alt="Symfony"
             />
             <div className="description-box">
-              <h4>Symfony</h4>
+              <h4>TA TE TI</h4>
               <p>
-              Symfony es un conjunto de componentes PHP, un marco de aplicación web, una filosofía y una comunidad, todos trabajando juntos en armonía,
+              App para jugar TA TE TI
               </p>
               <span className="categories">
                 <i className="fa fa-tag" />
-                Symfony, Illustration
+                TA TE TI
               </span>
             </div>
             <div className="link-box">
-              <a href="https://symfony.com/">Details</a>
+              <a href="https://elenagonzalez.github.io/tateti/">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
