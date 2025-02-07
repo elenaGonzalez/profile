@@ -40,7 +40,8 @@ render() {
                Inspirada en seguir capacitándome, un día me encontré con la gran oportunidad de formar parte de este programa y no dudé en aplicar para poder ser parte del Bootcamp Henry.
 
                En mi tiempo libre, trato de aplicar mi conocimiento, en proyectos para afianzar conceptos adquiridos.
-               Actualmente me encuentro trabajando como Tech Lead en Henry, guiando a que más personas saquen lo mejor de su potencial como desarrolladores.
+               Durante 4 años estuve trabajando como Tech Lead en Henry, guiando a que más personas saquen lo mejor de su potencial como desarrolladores.
+             <p>Actualmente me encuentro buscando nuevas oportunidades laborales<p>
              </p>
            </div>
          </div>{" "}
