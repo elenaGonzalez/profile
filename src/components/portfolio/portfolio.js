@@ -52,48 +52,10 @@ render() {
                   </div>
                 </div>{" "}
                 {/* item end */}
+
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href="#modal-04">
-                      <img alt="Next js" src="images/portfolio/nextjs.png" />
-                      <div className="overlay">
-                        <div className="portfolio-item-meta">
-                          <h5>Next js</h5>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>{" "}
-                {/* item end */}
-                <div className="columns portfolio-item">
-                  <div className="item-wrap">
-                    <a href="#modal-05">
-                      <img alt="React Js" src="images/portfolio/reactjs.png" />
-                      <div className="overlay">
-                        <div className="portfolio-item-meta">
-                          <h5>React Js</h5>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>{" "}
-                {/* item end */}
-                <div className="columns portfolio-item">
-                  <div className="item-wrap">
-                    <a href="#modal-06">
-                      <img alt="Node js" src="images/portfolio/nodejs.png" />
-                      <div className="overlay">
-                        <div className="portfolio-item-meta">
-                          <h5>Node js</h5>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>{" "}
-                {/* item end */}
-                <div className="columns portfolio-item">
-                  <div className="item-wrap">
-                    <a href="#modal-07">
                       <img alt="TA-TE-TI" src="images/portfolio/tateti.png" />
                       <div className="overlay">
                         <div className="portfolio-item-meta">
@@ -106,7 +68,7 @@ render() {
                 {/* item end */}
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-08" >
+                    <a href="#modal-05" >
                       <img alt="Busca Gifs" src="images/portfolio/buscagifs.png" />
                       <div className="overlay">
                         <div className="portfolio-item-meta">
@@ -117,6 +79,47 @@ render() {
                   </div>
                 </div>{" "}
                 {/* item end */}
+
+                <div className="columns portfolio-item">
+                  <div className="item-wrap">
+                    <a href="#modal-06">
+                      <img alt="Next js" src="images/portfolio/nextjs.png" />
+                      <div className="overlay">
+                        <div className="portfolio-item-meta">
+                          <h5>Next js</h5>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>{" "}
+                {/* item end */}
+                <div className="columns portfolio-item">
+                  <div className="item-wrap">
+                    <a href="#modal-07">
+                      <img alt="React Js" src="images/portfolio/reactjs.png" />
+                      <div className="overlay">
+                        <div className="portfolio-item-meta">
+                          <h5>React Js</h5>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>{" "}
+                {/* item end */}
+                <div className="columns portfolio-item">
+                  <div className="item-wrap">
+                    <a href="#modal-08">
+                      <img alt="Node js" src="images/portfolio/nodejs.png" />
+                      <div className="overlay">
+                        <div className="portfolio-item-meta">
+                          <h5>Node js</h5>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>{" "}
+                {/* item end */}
+              
               </div>{" "}
               {/* portfolio-wrapper end */}
             </div>{" "}
@@ -193,73 +196,8 @@ render() {
             </div>
           </div>
           {/* modal-03 End */}
+
           <div id="modal-04" className="popup-modal mfp-hide">
-            <img
-              className="scale-with-grid"
-              src="images/portfolio/modals/m-nextjs.png"
-              alt="Next js"
-            />
-            <div className="description-box">
-              <h4>Página Web</h4>
-              <p>
-                Framework Next js
-              </p>
-              <span className="categories">
-                <i className="fa fa-tag" />
-                Sitio web
-              </span>
-            </div>
-            <div className="link-box">
-              <a href="https://nextjs.org/">Details</a>
-              <a className="popup-modal-dismiss">Close</a>
-            </div>
-          </div>
-          {/* modal-04 End */}
-          <div id="modal-05" className="popup-modal mfp-hide">
-            <img
-              className="scale-with-grid"
-              src="images/portfolio/modals/m-reactjs.png"
-              alt="React js"
-            />
-            <div className="description-box">
-              <h4>React Js</h4>
-              <p>
-                Framework de Javascript del lado del cliente, que permite crear páginas dinámicas y muy rápidas.
-              </p>
-              <span className="categories">
-                <i className="fa fa-tag" />
-                Branding, Webdesign
-              </span>
-            </div>
-            <div className="link-box">
-              <a href="https://es.reactjs.org/">Details</a>
-              <a className="popup-modal-dismiss">Close</a>
-            </div>
-          </div>
-          {/* modal-05 End */}
-          <div id="modal-06" className="popup-modal mfp-hide">
-            <img
-              className="scale-with-grid"
-              src="images/portfolio/modals/m-nodejs.png"
-              alt="react js"
-            />
-            <div className="description-box">
-              <h4>Node js</h4>
-              <p>
-                Node.js® es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
-              </p>
-              <span className="categories">
-                <i className="fa fa-tag" />
-                Node js
-              </span>
-            </div>
-            <div className="link-box">
-              <a href="https://nodejs.org/es/">Details</a>
-              <a className="popup-modal-dismiss">Close</a>
-            </div>
-          </div>
-          {/* modal-06 End */}
-          <div id="modal-07" className="popup-modal mfp-hide">
             <img
               className="scale-with-grid"
               src="images/portfolio/modals/m-tateti.png"
@@ -280,8 +218,8 @@ render() {
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
-          {/* modal-07 End */}
-          <div id="modal-08" className="popup-modal mfp-hide">
+          {/* modal-04 End */}
+          <div id="modal-05" className="popup-modal mfp-hide">
             <img
               className="scale-with-grid"
               src="images/portfolio/modals/m-buscagifs.png"
@@ -302,7 +240,75 @@ render() {
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
-          {/* modal-01 End */}
+          {/* modal-05 End */}
+
+          <div id="modal-06" className="popup-modal mfp-hide">
+            <img
+              className="scale-with-grid"
+              src="images/portfolio/modals/m-nextjs.png"
+              alt="Next js"
+            />
+            <div className="description-box">
+              <h4>Página Web</h4>
+              <p>
+                Framework Next js
+              </p>
+              <span className="categories">
+                <i className="fa fa-tag" />
+                Sitio web
+              </span>
+            </div>
+            <div className="link-box">
+              <a href="https://nextjs.org/">Details</a>
+              <a className="popup-modal-dismiss">Close</a>
+            </div>
+          </div>
+          {/* modal-06 End */}
+          <div id="modal-07" className="popup-modal mfp-hide">
+            <img
+              className="scale-with-grid"
+              src="images/portfolio/modals/m-reactjs.png"
+              alt="React js"
+            />
+            <div className="description-box">
+              <h4>React Js</h4>
+              <p>
+                Framework de Javascript del lado del cliente, que permite crear páginas dinámicas y muy rápidas.
+              </p>
+              <span className="categories">
+                <i className="fa fa-tag" />
+                Branding, Webdesign
+              </span>
+            </div>
+            <div className="link-box">
+              <a href="https://es.reactjs.org/">Details</a>
+              <a className="popup-modal-dismiss">Close</a>
+            </div>
+          </div>
+          {/* modal-07 End */}
+          <div id="modal-08" className="popup-modal mfp-hide">
+            <img
+              className="scale-with-grid"
+              src="images/portfolio/modals/m-nodejs.png"
+              alt="react js"
+            />
+            <div className="description-box">
+              <h4>Node js</h4>
+              <p>
+                Node.js® es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
+              </p>
+              <span className="categories">
+                <i className="fa fa-tag" />
+                Node js
+              </span>
+            </div>
+            <div className="link-box">
+              <a href="https://nodejs.org/es/">Details</a>
+              <a className="popup-modal-dismiss">Close</a>
+            </div>
+          </div>
+          {/* modal-08 End */}
+         
           {/* row End */}
           {/* Portfolio Section End*/}
         </div>
