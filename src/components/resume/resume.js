@@ -40,7 +40,7 @@ render() {
                En mi tiempo libre, trato de aplicar mi conocimiento, en proyectos para afianzar conceptos adquiridos.
                Durante 4 años estuve trabajando como Tech Lead en Henry, guiando a que más personas saquen lo mejor de su potencial como desarrolladores.
                </p>
-               <p>Actualmente me encuentro buscando nuevas oportunidades laborales</p>
+               <p className="info">Actualmente me encuentro buscando nuevas oportunidades laborales</p>
            </div>
          </div>{" "}
          {/* item end */}

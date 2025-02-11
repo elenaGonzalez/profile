@@ -13,7 +13,7 @@ render() {
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href="#modal-01">
-                      <img alt="buscador" src="images/portfolio/buscador.png" />
+                      <img alt="contactos" src="images/portfolio/contactos.png" />
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>Ver mas</h5>
@@ -55,10 +55,10 @@ render() {
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
                     <a href="#modal-04">
-                      <img alt="Página Web" src="images/portfolio/smartbyte.png" />
+                      <img alt="Next js" src="images/portfolio/nextjs.png" />
                       <div className="overlay">
                         <div className="portfolio-item-meta">
-                          <h5>Ver más</h5>
+                          <h5>Next js</h5>
                         </div>
                       </div>
                     </a>
@@ -130,21 +130,21 @@ render() {
           <div id="modal-01" className="popup-modal mfp-hide">
             <img
               className="scale-with-grid"
-              src="images/portfolio/modals/m-buscador.png"
+              src="images/portfolio/modals/m-contactos.png"
               alt="Busacador de imágenes"
             />
             <div className="description-box">
-              <h4>Buscador de imágenes</h4>
+              <h4>Contactos</h4>
               <p>
-                Proyecto realizado en React js, que busca imágenes de Pixabay.
+                Proyecto realizado en Next js, que lista contactos.
               </p>
               <span className="categories">
                 <i className="fa fa-tag" />
-                Buscador de imágenes gratuitas
+                App de contactos
               </span>
             </div>
             <div className="link-box">
-              <a href="https://buscador-img.herokuapp.com/">Details</a>
+              <a href="https://next-contactos-mkfl.vercel.app/">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
@@ -196,13 +196,13 @@ render() {
           <div id="modal-04" className="popup-modal mfp-hide">
             <img
               className="scale-with-grid"
-              src="images/portfolio/modals/m-smartbyte.png"
-              alt="Página Web"
+              src="images/portfolio/modals/m-nextjs.png"
+              alt="Next js"
             />
             <div className="description-box">
               <h4>Página Web</h4>
               <p>
-                Página empresarial simple, realizada con Wordpress.
+                Framework Next js
               </p>
               <span className="categories">
                 <i className="fa fa-tag" />
@@ -210,7 +210,7 @@ render() {
               </span>
             </div>
             <div className="link-box">
-              <a href="https://adminbussiness.000webhostapp.com/">Details</a>
+              <a href="https://nextjs.org/">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>
