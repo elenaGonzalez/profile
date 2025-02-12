@@ -13,12 +13,12 @@ render(){
             <h2>Acerca de mi</h2>
             <p>
               Soy apasionada por la tecnología.
-              Tengo conocimientos en varios lenguajes de programación como PHP, su Framework Symfony, Java y tecnologías de Bases de datos.
+              Tengo conocimientos en varios lenguajes de programación como PHP, su Framework Symfony, Javascript )REact js, Next js, Node js, Nest js) y tecnologías de Bases de datos.
               Por varios años trabajé como freelance y trato de continuar capacitándome contínuamente.
               Adquirí conocimientos como Full Stack Developer en Javascript, lenguaje que ha ganado mucha popularidad por permitir desarrollar páginas webs y aplicaciones muy ligeras y capaces de soportar la demanda de miles de usuarios sin que su rendimiento se vea afectado.
             </p>
             <p>
-              Autodidacta. Tech Lead en Henry. Feliz de formar parte de esta gran familia!!</p>
+              Autodidacta. Por 4 años me desempeñé como Tech Lead en Henry.</p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Datos de Contacto</h2>
